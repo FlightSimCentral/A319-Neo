@@ -1,5 +1,5 @@
 ## About Project 319
-Project 319 is an open-source, freeware project aimed to make an A319 Neo for Microsoft Flight Simulator 2020.
+Project 319 is an open-source, freeware project aimed to make an A319 Neo for Microsoft Flight Simulator 2020. For more information, join our discord server here:https://discord.gg/PMwsptpPNM 
 
 ## Downloads
 This aircraft is not released, but you can download the development files from thie GitHub page.
