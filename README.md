@@ -18,4 +18,4 @@ A: At the moment, this aircraft is still in development. We will not announce a 
 A: Contributing is the biggest way to help, join our discord for more information
 
 
-Thank you to Fly By Wire Simulations for allowing us to uses their cockpit. Microsoft Flight Simulator © Microsoft Corporation. Project 319 A319 Neo was created under Microsoft's "Game Content Usage Rules" using assets from Microsoft Flight Simulator, and it is not endorsed by or affiliated with Microsoft.
+Thank you to Fly By Wire Simulations for allowing us to use assets from their A32NX. Check them out here:https://discord.gg/flybywire Microsoft Flight Simulator © Microsoft Corporation. Project 319 A319 Neo was created under Microsoft's "Game Content Usage Rules" using assets from Microsoft Flight Simulator, and it is not endorsed by or affiliated with Microsoft.
