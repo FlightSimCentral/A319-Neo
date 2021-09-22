@@ -1,2 +1,1 @@
-# Project 319 A319 Neo
- Free and open source A319 Neo for Microsoft Flight Simulator.
+Thank you to Fly By Wire Simulations for allowing us to uses their cockpit. Microsoft Flight Simulator © Microsoft Corporation. Project 319 A319 Neo was created under Microsoft's "Game Content Usage Rules" using assets from Microsoft Flight Simulator, and it is not endorsed by or affiliated with Microsoft.
